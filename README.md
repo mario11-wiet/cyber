@@ -11,8 +11,8 @@ This is a Flask application that extracts the dominant color palette from a give
 
 2. Build a Docker image and run the container:
     ```
-    docker build -t my-flask-app .
-    docker run -p 5000:5000 my-flask-app
+    docker build -t cyber .
+    docker run -p 5000:5000 cyber
     ```
 
 3. Run the Flask application manually by installing the required packages from `requirements.txt`:
