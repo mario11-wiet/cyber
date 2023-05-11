@@ -1,0 +1,15 @@
+# Exclude virtual environment files
+venv/
+
+# Exclude compiled Python files
+*.pyc
+
+# Exclude temporary files
+__pycache__/
+
+# Exclude files created by text editors
+*.swp
+*.swo
+*.swx
+*.bak
+*~
